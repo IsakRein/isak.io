@@ -1,0 +1,1 @@
+cd projects/isak.io && firebase serve

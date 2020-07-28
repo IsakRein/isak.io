@@ -1,0 +1,46 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: 'Arvo', serif;
+	text-align: center;
+	margin: 0;
+	color: #ffffff;
+	background-color: #000000;
+}
+
+#top_nav {
+	height: 80px;
+	color: #000000;
+	background-color: #ffdb58;
+}
+
+#main_title {
+	margin: 0;
+	margin-left: 10%;
+	text-align: left;
+	-ms-transform: translateY(50%);
+	transform: translateY(50%);
+}
+
+#animation_frame {
+	height: 100%;
+	margin: auto;
+	padding-top: 150px;
+	background-color: #000000;
+}
+
+#animation {
+	margin: auto;
+	margin-top: 100px;
+	display: inline-flex;
+}
+
+#circle {
+	width: 10px;
+	background-color: black;
+	height: 10px;
+	border-radius: 50%;
+}
+    
