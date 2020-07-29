@@ -37,6 +37,11 @@ body {
 	display: inline-flex;
 }
 
+#animation_info {
+	padding: 60px;
+	font-style: italic;
+}
+
 #circle {
 	width: 10px;
 	background-color: black;
